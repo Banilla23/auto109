@@ -26,7 +26,10 @@ SECRET_KEY = 'b-btd2=92gh64o&tjk-bthl-1l^8(qn*1y^^+2=h1011bhe0x('
 DEBUG = True
 
 ALLOWED_HOSTS = []
+hahaha hoho
 
+nsjugbdfujsdbf DEBUGnv
+idhfjoshd
 
 # Application definition
 
